@@ -1,1 +1,10 @@
-{}
+{
+  "expo": {
+    "android": {
+      "package": "com.notbrent.mobile"
+    },
+    "ios": {
+      "bundleIdentifier": "com.notbrent.mobile"
+    }
+  }
+}
