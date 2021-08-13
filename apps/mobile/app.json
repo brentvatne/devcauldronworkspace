@@ -4,7 +4,10 @@
       "package": "com.notbrent.mobile"
     },
     "ios": {
-      "bundleIdentifier": "com.notbrent.mobile"
+      "bundleIdentifier": "com.notbrent.mobile",
+      "config": {
+        "googleMapsApiKey": "abc1234"
+      }
     }
   }
 }
